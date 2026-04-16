@@ -6,7 +6,7 @@ import HomeBottom from '../Components/Home/HomeBottom'
 const Home = () => {
   return (
     < >
-    <div className='h-screen w-screen bg-red-600 fixed'>
+    <div className='h-screen w-screen  fixed'>
         <Video/>
     </div>
     <div className='h-screen w-screen relative pb-5 overflow-hidden flex flex-col justify-between'>
